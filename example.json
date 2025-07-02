@@ -1,0 +1,177 @@
+{
+    "id": {
+        "avatar": "https://avatars.steamstatic.com/492391b6b295a4bd10e7b7854136062e2fc1083b_full.jpg",
+        "accountCreated": "21 Nov 2023",
+        "steamID": "STEAM_0:1:806826842",
+        "steamID3": "U:1:1613653685",
+        "steam32": "1613653685",
+        "steam64": "76561199573919413",
+        "profileURL": "https://steamcommunity.com/id/cat-ci/",
+        "profilePermalink": "https://steamcommunity.com/profiles/76561199573919413/"
+    },
+    "profile": {
+        "status": "away",
+        "personastate": 3,
+        "animatedBackground": {
+            "poster": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1119980/825eb744b3cb8d65c5e906277dca230d74f82133.jpg",
+            "sources": [
+                {
+                    "src": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1119980/404c2298509148dc4ad82ee40d3d66a3fef2fa4f.webm",
+                    "type": "video/webm"
+                },
+                {
+                    "src": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1119980/4597e35f757dd3e0ed4fb7dff712a233fa45488c.mp4",
+                    "type": "video/mp4"
+                }
+            ]
+        },
+        "realname": null,
+        "avatar": {
+            "public-avatar": "https://avatars.fastly.steamstatic.com/492391b6b295a4bd10e7b7854136062e2fc1083b_full.jpg",
+            "avatarFrame": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/253230/27ef3d62a0e42bf4ac60d426f2f172e1790ec0fd.png",
+            "avatar": "https://avatars.steamstatic.com/492391b6b295a4bd10e7b7854136062e2fc1083b.jpg",
+            "avatarmedium": "https://avatars.steamstatic.com/492391b6b295a4bd10e7b7854136062e2fc1083b_medium.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/492391b6b295a4bd10e7b7854136062e2fc1083b_full.jpg",
+            "avatarhash": "492391b6b295a4bd10e7b7854136062e2fc1083b"
+        },
+        "level": "96109113",
+        "levelStage": "lvl_90",
+        "favoriteBadge": {
+            "link": "https://steamcommunity.com/id/cat-ci/gamecards/433340",
+            "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/433340/14bbc48cf3b8bb59cf14feb152da8c07a443bda9.png",
+            "name": "Tricky Tabby Slime",
+            "xp": "400 XP"
+        },
+        "bio": {
+            "raw": "<img src=\"https://community.fastly.steamstatic.com/economy/emoticon/p2aperture\" alt=\":p2aperture:\" class=\"emoticon\"> &gt; <img src=\"https://community.fastly.steamstatic.com/economy/emoticon/bms\" alt=\":bms:\" class=\"emoticon\">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤᶻzᶻz<img src=\"https://community.fastly.steamstatic.com/economy/emoticon/pillow\" alt=\":pillow:\" class=\"emoticon\"><br><img src=\"https://community.fastly.steamstatic.com/economy/emoticon/boykisserX3\" alt=\":boykisserX3:\" class=\"emoticon\">",
+            "text": ":p2aperture: > :bms:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤᶻzᶻz:pillow::boykisserX3:\t\t\t\t\n\t\t\t\t\t:p2aperture: > :bms:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤᶻzᶻz:pillow::boykisserX3:"
+        },
+        "timecreated": 1700607091,
+        "personastateflags": 0,
+        "loccountrycode": "GB",
+        "locstatecode": "T5",
+        "profilestate": 1,
+        "personaname": "Paper",
+        "commentpermission": 1,
+        "awards": {
+            "link": "https://steamcommunity.com/id/cat-ci/awards/",
+            "count": 3,
+            "awards": [
+                {
+                    "image": "https://store.fastly.steamstatic.com/public/images/loyalty/reactions/still/17.png?v=5",
+                    "name": "This user's profile has been given the 'Take My Points' award"
+                },
+                {
+                    "image": "https://store.fastly.steamstatic.com/public/images/loyalty/reactions/still/11.png?v=5",
+                    "name": "This user's profile has been given the 'Golden Unicorn' award"
+                },
+                {
+                    "image": "https://store.fastly.steamstatic.com/public/images/loyalty/reactions/still/8.png?v=5",
+                    "name": "This user's profile has been given the 'Michelangelo' award"
+                }
+            ]
+        },
+        "stats": {
+            "games": {
+                "name": "Games",
+                "count": 59,
+                "link": "https://steamcommunity.com/id/cat-ci/games/?tab=all"
+            },
+            "inventory": {
+                "name": "Inventory",
+                "count": 0,
+                "link": "https://steamcommunity.com/id/cat-ci/inventory/"
+            },
+            "reviews": {
+                "name": "Reviews",
+                "count": 3,
+                "link": "https://steamcommunity.com/id/cat-ci/recommended/"
+            }
+        },
+        "friends": {
+            "link": "https://steamcommunity.com/id/cat-ci/friends/",
+            "count": 1,
+            "top": [
+                {
+                    "name": "Scribbles",
+                    "link": "https://steamcommunity.com/profiles/76561198100895194",
+                    "avatar": "https://avatars.fastly.steamstatic.com/f7cc9d0ac1b352ed6fdf689a75c76ae797dafa8a_medium.jpg",
+                    "level": "109",
+                    "levelStage": "lvl_100",
+                    "status": "Offline"
+                }
+            ]
+        },
+        "badges": {
+            "response": {
+                "badges": [
+                    {
+                        "badgeid": 13,
+                        "level": 59,
+                        "completion_time": 1750699618,
+                        "xp": 263,
+                        "scarcity": 31402131
+                    }
+                ],
+                "player_xp": 51163,
+                "player_level": 96,
+                "player_xp_needed_to_level_up": 837,
+                "player_xp_needed_current_level": 51000
+            }
+        },
+        "recently-played": {
+            "total_count": 4,
+            "games": [
+                {
+                    "appid": 747660,
+                    "name": "Five Nights at Freddy's: Security Breach",
+                    "playtime_2weeks": 187,
+                    "playtime_forever": 187,
+                    "img_icon_url": "40abe4b1ce9c60e85aa569af8313bcbecd18e47c",
+                    "playtime_windows_forever": 187,
+                    "playtime_mac_forever": 0,
+                    "playtime_linux_forever": 0,
+                    "playtime_deck_forever": 0
+                },
+                {
+                    "appid": 2215390,
+                    "name": "Five Nights at Freddy's: Secret of the Mimic",
+                    "playtime_2weeks": 12,
+                    "playtime_forever": 12,
+                    "img_icon_url": "3ca9dcd3d164c2b06914c35c7513c3425c259267",
+                    "playtime_windows_forever": 12,
+                    "playtime_mac_forever": 0,
+                    "playtime_linux_forever": 0,
+                    "playtime_deck_forever": 0
+                },
+                {
+                    "appid": 620,
+                    "name": "Portal 2",
+                    "playtime_2weeks": 2,
+                    "playtime_forever": 1329,
+                    "img_icon_url": "2e478fc6874d06ae5baf0d147f6f21203291aa02",
+                    "playtime_windows_forever": 831,
+                    "playtime_mac_forever": 0,
+                    "playtime_linux_forever": 497,
+                    "playtime_deck_forever": 497
+                },
+                {
+                    "appid": 3274300,
+                    "name": "Awaria",
+                    "playtime_2weeks": 1,
+                    "playtime_forever": 27,
+                    "img_icon_url": "afcbf85a40f657de18f894a46bf3152d63249e59",
+                    "playtime_windows_forever": 27,
+                    "playtime_mac_forever": 0,
+                    "playtime_linux_forever": 0,
+                    "playtime_deck_forever": 0
+                }
+            ]
+        }
+    },
+    "status": "online",
+    "avatarChanged": false,
+    "badgeCountChanged": false,
+    "vanityChanged": false,
+    "isNewUser": false
+}

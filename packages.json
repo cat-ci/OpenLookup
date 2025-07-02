@@ -1,0 +1,35 @@
+{
+  "name": "OpenLookup",
+  "version": "1.0.0",
+  "description": "A Node.js API for grabbing info.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.0.0",
+    "node-cache": "^5.1.2",
+    "puppeteer": "^22.7.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "steam",
+    "scraper",
+    "api",
+    "nodejs",
+    "express"
+  ],
+  "author": "Catci",
+  "license": "MIT"
+}
